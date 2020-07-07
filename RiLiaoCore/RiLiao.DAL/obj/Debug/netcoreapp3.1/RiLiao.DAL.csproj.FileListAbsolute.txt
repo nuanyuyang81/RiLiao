@@ -1,0 +1,5 @@
+H:\_Code\_Weiwei\RiLiao\RiLiao.DAL\bin\Debug\netcoreapp3.1\RiLiao.DAL.deps.json
+H:\_Code\_Weiwei\RiLiao\RiLiao.DAL\bin\Debug\netcoreapp3.1\RiLiao.DAL.dll
+H:\_Code\_Weiwei\RiLiao\RiLiao.DAL\obj\Debug\netcoreapp3.1\RiLiao.DAL.csprojAssemblyReference.cache
+H:\_Code\_Weiwei\RiLiao\RiLiao.DAL\obj\Debug\netcoreapp3.1\RiLiao.DAL.AssemblyInfoInputs.cache
+H:\_Code\_Weiwei\RiLiao\RiLiao.DAL\obj\Debug\netcoreapp3.1\RiLiao.DAL.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "brfMjuvbOcnkSjEkfpS13p21tX5rlH5LAXYBVJciUzgytw3Z/zG1C1s9S4hEVENppjKsIRL8sdlagR/8kpQk6Q==",
+  "success": true,
+  "projectFilePath": "H:\\_Code\\_Weiwei\\RiLiao\\RiLiao.Utility\\RiLiao.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

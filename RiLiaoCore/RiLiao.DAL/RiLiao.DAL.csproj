@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="MySql.Data" Version="8.0.20" />
+    <PackageReference Include="MySql.Data.Entity" Version="6.10.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Manage\" />
+    <Folder Include="WX\" />
+  </ItemGroup>
+
+</Project>
