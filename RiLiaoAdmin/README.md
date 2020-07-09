@@ -1,4 +1,4 @@
-# admin
+# 日料餐厅项目后台管理系统
 
 > Admin Management Web for Riliao Project
 
